@@ -1,0 +1,65 @@
+/* TITRES */
+h1 {
+    color: white;
+}
+
+h2 {
+    color: rgb(67, 79, 96);
+}
+
+h3 {
+    color: rgb(96, 84, 67);
+}
+
+h4 {
+    color: #435E60;
+}
+
+/* BOUTON ACCUEIL */
+.home-button {
+    color: white;
+    font-weight: 700;
+}
+
+/* LIENS GRAS */
+.fat-link {
+    font-weight: 600;
+}
+
+/* IMAGE DE FOND */
+body {
+    background-image: url(/Images/Image_de_fond/Image_de_fond_quali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+/* IMAGES */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: black;
+    color: white;
+    padding: 5em 0em;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer p {
+    color: white;
+}
+
+/* COULEURS */
+.bg-navy-blue {
+    background-color: #0E0E55;
+}
