@@ -59,6 +59,11 @@ footer p {
     color: white;
 }
 
+/* ACTUALITÉS */
+.fond-gris {
+    background-color: #e7e7e7;
+}
+
 /* COULEURS */
 .bg-navy-blue {
     background-color: #0E0E55;
